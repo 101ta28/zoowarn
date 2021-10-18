@@ -1,4 +1,4 @@
-# Contents: ZOOm WARNing system (zurvarn)
+# Contents: ZOOm WARNing system (not zurvarn)
 # Author: Tatsuya Imai
 # LastUpdate: 2021/10/18
 # Since: 2021/10/18
