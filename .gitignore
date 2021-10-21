@@ -2,6 +2,10 @@ __pycache__
 build/
 dist/
 rep_env/
+resources/
+pyinstaller/
 hoge.py
 pytheme.py
 zoowarn.spec
+zoowarn-onconsole.spec
+zoowarn-noconsole.spec
