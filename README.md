@@ -1,6 +1,6 @@
 # Zoowarn
 
-[![GitHub license](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](https://raw.githubusercontent.com/101ta28/zoowarn/master/LICENSE)
+[![License: LGPL v3](https://img.shields.io/badge/License-LGPL%20v3-blue.svg)](https://raw.githubusercontent.com/101ta28/zoowarn/master/LICENSE)
 
 目次
 =================
